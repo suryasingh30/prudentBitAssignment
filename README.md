@@ -41,7 +41,7 @@ A responsive full-stack patient directory built with **Next.js App Router**, **T
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/yourusername/patient-directory.git
+git clone https://github.com/suryasingh30/prudentBitAssignment.git
 cd patient-directory
 npm install
 ```
@@ -68,8 +68,7 @@ Visit: [http://localhost:3000](http://localhost:3000)
 
 ## 🧠 Bonus Features
 
-- 🔁 Debounced search input  
-- ⚡ Optimized with `useMemo` and `useCallback` (optional)  
+- 🔁 Debounced search input   
 - ✨ Clean UI with TailwindCSS  
 - ✅ Git-friendly commit messages  
 
