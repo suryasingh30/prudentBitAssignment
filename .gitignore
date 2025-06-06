@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+# Next.js
+.next/
+out/
+# Environment variables
+.env*.local
+.env
+# IDE/Editor
+.vscode/
+.idea/
+# System files
+.DS_Store
